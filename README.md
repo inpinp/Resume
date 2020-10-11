@@ -6,7 +6,7 @@
 
 ### Hello world!&nbsp;
 ---
-###초보 학생 개발자
+### 초보 학생 개발자
 
 관심분야
 
@@ -20,9 +20,9 @@
 
 ![Inpinp's github stats](https://github-readme-stats.vercel.app/api?username=inpinp&show_icons=true)
 
+-------------
 
-
-###연락처
+### 연락처
 
 Email : skalsxo35@gmail.com
 
