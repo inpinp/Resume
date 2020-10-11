@@ -5,7 +5,18 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Inpinp's%20Github&fontSize=40)
 
 ### Hello world!&nbsp;
+---
+###초보 학생 개발자
 
+관심분야
+
+* 유니티
+* 인공지능
+
+프로그래밍 언어 스킬
+
+1. C#
+2. Java
 
 ![Inpinp's github stats](https://github-readme-stats.vercel.app/api?username=inpinp&show_icons=true)
 
