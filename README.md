@@ -22,5 +22,9 @@
 
 
 
+###연락처
+
+Email : skalsxo35@gmail.com
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
