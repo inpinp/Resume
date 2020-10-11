@@ -8,3 +8,8 @@
 
 
 ![Inpinp's github stats](https://github-readme-stats.vercel.app/api?username=inpinp&show_icons=true)
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
