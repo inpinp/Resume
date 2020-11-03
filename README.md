@@ -35,8 +35,7 @@
 
 
 #### 놈라이크
-![DinosaurRunNOMlike_20135318_나민태_완성 (1)](https://user-images.githubusercontent.com/62089156/97996525-36fe6200-1e2b-11eb-8c6b-45d968e42262.jpg)
-![DinosaurRunNOMlike_20135318_나민태_완성 (2)](https://user-images.githubusercontent.com/62089156/97996530-382f8f00-1e2b-11eb-9d15-e9b097609b61.jpg)
+<img src = "https://user-images.githubusercontent.com/62089156/97996525-36fe6200-1e2b-11eb-8c6b-45d968e42262.jpg ><img src = "https://user-images.githubusercontent.com/62089156/97996530-382f8f00-1e2b-11eb-9d15-e9b097609b61.jpg"  width="500">
 과거 피처폰 시절 유명했던 게임인 놈을 유니티를 통해 스마트폰 게임으로 제작
 
 ---
