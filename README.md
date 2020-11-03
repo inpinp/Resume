@@ -48,7 +48,8 @@ HTML+CSS 그리고 바닐라 JS를 사용하여 제작
 
 #### 가상로또판매 프로그램
 ![lottoCS1](https://user-images.githubusercontent.com/62089156/97998413-67df9680-1e2d-11eb-988b-2892aef79641.png)
-![lottoCS](https://user-images.githubusercontent.com/62089156/97998409-66ae6980-1e2d-11eb-9dad-da1da9773d07.png)
+![lottoCS](https://user-images.githubusercontent.com/62089156/97998409-66ae6980-1e2d-11eb-9dad-da1da9773d07.png)  
+
 가상으로 로또를 구매할수 있는 프로그램 자동과 반자동, 수동 모두 가능하며 당첨확인도 가능
 C#을 사용해 제작
 
