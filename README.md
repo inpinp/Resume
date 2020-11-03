@@ -36,7 +36,8 @@
 
 
 #### 놈라이크
-<img src = "https://user-images.githubusercontent.com/62089156/97996525-36fe6200-1e2b-11eb-8c6b-45d968e42262.jpg" width="450"><img src = "https://user-images.githubusercontent.com/62089156/97996530-382f8f00-1e2b-11eb-9d15-e9b097609b61.jpg"  width="300">
+<img src = "https://user-images.githubusercontent.com/62089156/97996525-36fe6200-1e2b-11eb-8c6b-45d968e42262.jpg" width="550">
+
 과거 피처폰 시절 유명했던 게임인 놈을 유니티를 통해 스마트폰 게임으로 제작
 
 
