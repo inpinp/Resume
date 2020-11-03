@@ -6,7 +6,7 @@
 
 ### Hello world!&nbsp;
 ---
-### 초보 학생 개발자
+### 초보 개발자
 
 ## 관심분야
 
@@ -25,7 +25,9 @@
 #### 대학에서 수업으로 듣기만 했다
 * C/C++
 * python
+* JS
 
+---
 
 ![Inpinp's github stats](https://github-readme-stats.vercel.app/api?username=inpinp&show_icons=true)
 
