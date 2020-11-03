@@ -29,16 +29,21 @@
 ---
 ## 제작 프로젝트
 
-#### 로또번호 통계 사이트
-![web_Lotto](https://user-images.githubusercontent.com/62089156/97990715-b38d4280-1e23-11eb-9c14-7560e5c6516d.png)  
-1회부터 최신회차까지의 로또 당첨번호를 받아오고 각 번호가 몇번나왔는지 등을 통계내주는 사이트     
-
-
+#### VR BOSS & PC HUNTER 
+![vr](https://user-images.githubusercontent.com/62089156/97997831-b93b5600-1e2c-11eb-8b73-277821f950cc.PNG)
+VR유저는 보스몬스터를 일반적인 PC유저는 헌터를 플레이하여 서로 싸우는 게임   
 
 #### 놈라이크
 <img src = "https://user-images.githubusercontent.com/62089156/97996525-36fe6200-1e2b-11eb-8c6b-45d968e42262.jpg" width="550">
 
 과거 피처폰 시절 유명했던 게임인 놈을 유니티를 통해 스마트폰 게임으로 제작   
+
+
+#### 로또번호 통계 사이트
+![web_Lotto](https://user-images.githubusercontent.com/62089156/97990715-b38d4280-1e23-11eb-9c14-7560e5c6516d.png)  
+1회부터 최신회차까지의 로또 당첨번호를 받아오고 각 번호가 몇번나왔는지 등을 통계내주는 사이트     
+
+
 
 
 ---
