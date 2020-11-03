@@ -30,9 +30,16 @@
 ---
 ## 제작 프로젝트
 ![web_Lotto](https://user-images.githubusercontent.com/62089156/97990715-b38d4280-1e23-11eb-9c14-7560e5c6516d.png)
+#### 로또번호 통계 사이트
+1회부터 최신회차까지의 로또 당첨번호를 받아오고 각 번호가 몇번나왔는지 등을 통계내주는 사이트
 
 
+#### 놈라이크
+![DinosaurRunNOMlike_20135318_나민태_완성 (1)](https://user-images.githubusercontent.com/62089156/97996525-36fe6200-1e2b-11eb-8c6b-45d968e42262.jpg)
+![DinosaurRunNOMlike_20135318_나민태_완성 (2)](https://user-images.githubusercontent.com/62089156/97996530-382f8f00-1e2b-11eb-9d15-e9b097609b61.jpg)
+과거 피처폰 시절 유명했던 게임인 놈을 유니티를 통해 스마트폰 게임으로 제작
 
+---
 ![Inpinp's github stats](https://github-readme-stats.vercel.app/api?username=inpinp&show_icons=true)
 
 -------------
