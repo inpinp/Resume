@@ -8,15 +8,24 @@
 ---
 ### 초보 학생 개발자
 
-관심분야
+##관심분야
 
 * 유니티
+* 게임프로그래밍
 * 인공지능
 
-프로그래밍 언어 스킬
-
+##사용기술
+###게임엔진
+* 유니티
+###프로그래밍 언어 스킬
+####나름 할줄 안다
 * C#
 * Java
+
+####대학에서 수업으로 듣기만 했다
+* C/C++
+* python
+
 
 ![Inpinp's github stats](https://github-readme-stats.vercel.app/api?username=inpinp&show_icons=true)
 
