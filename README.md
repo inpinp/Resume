@@ -15,8 +15,8 @@
 
 프로그래밍 언어 스킬
 
-1. C#
-2. Java
+* C#
+* Java
 
 ![Inpinp's github stats](https://github-readme-stats.vercel.app/api?username=inpinp&show_icons=true)
 
